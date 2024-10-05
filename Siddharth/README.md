@@ -1,4 +1,4 @@
-<h2 align="left">Hello World 👋! My name is Pratham Gupta. and I'm a developer.</h2>
+<h2 align="left">Hello World 👋! My name is Sid. and I'm a developer.</h2>
 
 ###
 
